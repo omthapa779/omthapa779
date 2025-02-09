@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SBA Mortgage's Website / Pratik HR's Website<br><br>🌱 I’m currently learning Laravel, Node Js, Tailwind<br><br>🤝 I’m looking for help with Web Development Projects<br><br>💬 Ask me about php, laravel & gsap, js , html & css<br><br>📫 How to reach me omthapa781@gmail.com<br><br>⚡ Fun fact Loves Music and Corners
+🔭 I’m currently working on SBA Mortgage's Website / Brighter Tomorrow Kumaripati's Website<br><br>🌱 I’m currently learning Laravel, Node Js, Tailwind<br><br>🤝 I’m looking for help with Web Development Projects<br><br>💬 Ask me about php, laravel & gsap, js , html & css<br><br>📫 How to reach me omthapa781@gmail.com<br><br>⚡ Fun fact Loves Music and Corners
 
 
 ## 🌐 Socials:
